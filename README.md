@@ -26,7 +26,7 @@
 - 泛型
 - 反射
 - 注解
-- JVM
+- JVM初级
 - 动态代理
 - 其它设计模式
 ## 高级
@@ -83,14 +83,12 @@
 - 其它算法
 
 ## 计算机网络
-- 计算机网络5层/7层模型
+- 计算机网络5层
 - 什么是Http
 - Http版本
 - Http三次握手与四次挥手
 - Http请求头与响应体
 - Https是什么
-- TLS和SSL协议
-- 证书
 - Https握手过程
 - Socket与WebSocket
 - Http缓存
@@ -152,6 +150,24 @@
 - 具备App开发知识
 - 进程间通信
 - 常用的adb命令
+
+### Android Automotive OS【谷歌官方车载系统】
+
+- 什么是Android Automotive OS
+- CarService:汽车服务
+- CarPropertyService:车辆属性服务
+- CarAudioService:汽车音频服务
+- UX Restrictions:汽车用户体验限制
+- 电源管理
+- 输入事件管理
+- 多屏幕支持
+- 多用户支持
+- 车外影像系统
+- 车载系统应用：语音助手 & 导航应用 & 媒体应用 & 其它应用等
+
+> 无论电视TV也好，还是车载或者其他的，你是从事系统应用开发，还是从事Framework层开发，我们都需要熟悉Android系统的Framework的一些机制，
+> 这更加有利于你有更强的平台技术能力，从而达到我们心中想要的就是高薪。
+
 
 ## 跨平台开发
 ### Flutter
