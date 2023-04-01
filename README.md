@@ -1,8 +1,8 @@
 # Android知识体系总结(Update By 2023)
 > &emsp;&emsp;本人的Android学习路线，希望对你有帮助请star一下，是我最最大动力，感谢支持.  
 > &emsp;&emsp;请一定要看下面的脑图，笔者总结的非常详细，下面只是列举了一个大致的知识脉络.脑图还没有完善，大概5月底可以做完。   
-> &emsp;&emsp; 详细脑图请跳转:[Android 2023知识体系大纲 Version 1.0.0](https://github.com/Ellen2018/LyAndroidRoute/blob/master/Android%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E7%BB%93%E6%95%B4%E7%90%86/Android%202023%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E5%A4%A7%E7%BA%B2%20Version%201.0.0.xmind)
-
+> &emsp;&emsp; 详细脑图请跳转:[Android 2023知识体系大纲 Version 1.0.0](https://github.com/Ellen2018/LyAndroidRoute/blob/master/Android%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E7%BB%93%E6%95%B4%E7%90%86/Android%202023%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E5%A4%A7%E7%BA%B2%20Version%201.0.0.xmind)  
+> &emsp;&emsp;[脑图打不开，点击这里下载Xmind](https://xmind.cn/?ref=baidupc)
 # Java
 ## 初级
 - JDK & JVM & JRE
@@ -39,7 +39,6 @@
 - 字节码插桩技术
 - JVM
 - JMM
-
 
 ## Kotlin
 ### 初级
@@ -158,7 +157,7 @@
 - 什么是Android Automotive OS
 - CarService:汽车服务
 - CarPropertyService:车辆属性服务
-- CarAudioService:汽车音频服务++                                                                                                                                                                      
+- CarAudioService:汽车音频服务
 - UX Restrictions:汽车用户体验限制
 - 电源管理
 - 输入事件管理
